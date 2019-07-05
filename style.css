@@ -1,0 +1,54 @@
+body{
+    background-image:url(criança.jpeg);
+    background-size:
+}
+
+button{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.botao-bala{
+    background-color: khaki
+}
+
+.botao-chá{
+    background-color: mediumseagreen
+}
+
+.botao-quentão{
+    background-color: fuchsia
+}
+
+.botao-tempero{
+    background-color: salmon
+}
+
+.botao-cachaça{
+    background-color: darkolivegreen   
+}
+div{
+    background-color: mediumseagreen;
+    width: 300px;
+}
+
+div h3:first-child{
+    background-color: greenyellow;
+    color: crimson
+}
+
+div h3:last-child{
+    background-color: olive;
+    color: chartreuse
+}
+div h3:nth-child(2){
+    background-color: royalblue;
+    color: lightcoral
+}
+img{
+    height: 400px;
+    width: 600px;
+}
+
